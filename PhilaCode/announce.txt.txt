@@ -1,0 +1,8 @@
+Announcement{announcementText='Fikile Nkosi', course='AOP316D', campus='Campus 1'}
+
+Announcement{announcementText='Philasande Nkosi', course='AOP316D', campus='Campus 1'}
+
+Announcement{announcementText='Wandiswa Zikalala', course='AOR316D', campus='Campus 2'}
+Announcement{announcementText='Lwandile Khonjelwayo', course='Programming 1', campus='Campus 3'}
+Announcement{announcementText='Sanele Makhubo', course='Programming 1', campus='Campus 3'}
+Announcement{announcementText='Vuyisile Chili', course='Algorithms 1', campus='Campus 1'}
